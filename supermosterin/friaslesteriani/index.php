@@ -5,7 +5,7 @@ Header( "HTTP/1.1 301 Moved Permanently" );
 
 
 
-Header( "Location: https://fuentedepodermaontera.blogspot.com/");
+Header( "Location: https://sombrillamasterialespaww.blogspot.com/");
 //Header( "Location: https://www.google.com");
 
 ?>
